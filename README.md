@@ -21,12 +21,6 @@ Lots of missing information from original DB -> additional analysis, discussed v
 Confusing information can be added to the back just to support the main part
 
 ## Additional Reflections
-Q. which software is preferred for which situation in the real world as there seems to be some overlapping functions/roles between SQL & Tableau (e.g. why are we mostly working with raw data in Tableau? why not exporting the data after analysis in SQL? - is this a matter of choice?)
---> felt that SQL (cannot calculate median easily) and Tableau (plotting many data points was tricky, plot type limmited...) alone has limited function
-A: Python could cover their functions 100X better!
-
-
-
 
 
 
